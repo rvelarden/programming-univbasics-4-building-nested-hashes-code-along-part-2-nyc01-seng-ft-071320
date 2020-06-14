@@ -2,7 +2,7 @@ def update_status
    epic_tragedy = {
      :additional_characters [
          {name: "Prince Escalus"},
-         {name: "Mercutio"} ]
+         {name: "Apothecary"} ]
       :montague => {
          :patriarch => {name: "Lord Montague", age: "53"},
          :matriarch => {name: "Lady Montague", age: "54"},
