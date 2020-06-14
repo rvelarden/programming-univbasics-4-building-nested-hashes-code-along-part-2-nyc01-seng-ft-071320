@@ -32,6 +32,7 @@ end
 
 def add_characters
    epic_tragedy = {
+     :additional_characters
       :montague => {
          :patriarch => {name: "Lord Montague", age: "53"},
          :matriarch => {name: "Lady Montague", age: "54"},
