@@ -34,7 +34,7 @@ def add_characters
    epic_tragedy = {
      :additional_characters = [
          {name: "Prince Escalus"},
-         {name: "Mercutio", age: "18", attitude: "hot-headed"} ]
+         {name: "Apothecary"} ]
       :montague => {
          :patriarch => {name: "Lord Montague", age: "53"},
          :matriarch => {name: "Lady Montague", age: "54"},
