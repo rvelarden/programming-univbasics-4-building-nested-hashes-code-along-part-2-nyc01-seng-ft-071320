@@ -1,5 +1,8 @@
 def update_status
    epic_tragedy = {
+     
+         {name: "Benvolio", age: "17", attitude: "worried"},
+         {name: "Mercutio", age: "18", attitude: "hot-headed"}
       :montague => {
          :patriarch => {name: "Lord Montague", age: "53"},
          :matriarch => {name: "Lady Montague", age: "54"},
@@ -53,7 +56,7 @@ def add_characters
    }
 
    # Write code below that does the following programmatically:
-   :additional_characters [:name => "Prince Escalus"]
+   
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
    # - Add two hashes to this array, both with a :name key.
    #   - The first hash should have the :name key set to "Prince Escalus" 
